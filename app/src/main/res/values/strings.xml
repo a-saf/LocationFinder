@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocationFinder</string>
+    <string name="queryHint">Enter address</string>
+    <string name="add_new_location">Add new location</string>
+    <string name="enter_address">Enter address</string>
+    <string name="latitude">Latitude:</string>
+    <string name="address">Address:</string>
+    <string name="longitude">Longitude:</string>
+    <string name="enter_long">Enter longitude</string>
+    <string name="enter_lat">Enter latitude</string>
+</resources>
